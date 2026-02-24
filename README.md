@@ -1,13 +1,10 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
+
 
 <!-- TITULO -->
-<h1 align="center">SEU_NOME</h1>
+<h1 align="center">Lucas Marcondes Delfino</h1>
 
 <h3 align="center">
-Software & Firmware Developer | IoT & C++ aprendiz
+Software & Firmware Developer | IoT & C++ learner
 </h3>
 
 ---
