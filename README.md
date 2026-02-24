@@ -67,17 +67,6 @@ Interesse especial em:
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff0000&icon_color=ff0000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&bg_color=0d1117&title_color=ff0000"/>
-
-</p>
-
----
 
 # 🧠 Mentalidade
 
